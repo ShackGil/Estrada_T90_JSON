@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Shack Gil Estrada",
+            "Age": "22",
+            "Favorite_Quote": "The purpose of our lives is to be happy"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001105093@student.buksu.edu.ph"
+        }
+    ]
+}
